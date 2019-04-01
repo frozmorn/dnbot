@@ -1,1 +1,1 @@
-worker: node dn1.js
+worker: node test.js
