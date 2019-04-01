@@ -1,6 +1,6 @@
 {
-  "name": "Test",
-  "description":"test",
+  "name": "dn1",
+  "description":"dn1",
   "version": "0.0.1",
   "main": "dn1.js",
   "scripts":{
