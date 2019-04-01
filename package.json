@@ -1,10 +1,10 @@
 {
-  "name": "dn1",
-  "description":"dn1",
+  "name": "Test",
+  "description":"test",
   "version": "0.0.1",
-  "main": "dn1.js",
+  "main": "test.js",
   "scripts":{
-    "start": "node dn1.js"
+    "start": "node test.js"
    },
   "dependencies": {
     "discord.js": "11.3.2"
