@@ -4,7 +4,7 @@ const config = require("./config.json");
 
 client.on("ready", () => {
     console.log(`Bot has started, with ${client.users.size} users, in ${client.channels.size} channels of ${client.guilds.size} guilds.`);
-    client.user.setActivity(`Selamat Liburan`);
+    client.user.setActivity(`Bentar lagi UAS cuy`);
 });
 client.on("message", (message) => { 
 
